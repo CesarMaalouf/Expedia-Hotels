@@ -140,3 +140,10 @@ datapath.txt
 train.csv
 submission.csv
 test.csv
+destinations.csv
+destinations.csv.gz
+dist_predict.csv
+sample_submission.csv
+test.csv
+test.csv.gz
+train.csv
