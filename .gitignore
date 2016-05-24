@@ -147,3 +147,5 @@ sample_submission.csv
 test.csv
 test.csv.gz
 train.csv
+*.csv
+*.gz
